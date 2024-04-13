@@ -23,13 +23,11 @@
 
 ### Waka Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-89-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 34 Bytes Used in GitHub's Storage 
+> 📦 2.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,16 +62,25 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     33 mins             ████████░░░░░░░░░░░░░░░░░   30.85 % 
+Python                   29 mins             ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+CSS                      28 mins             ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+C#                       11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Binary                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 32 mins        █████████████████████░░░░   84.54 % 
+Visual Studio            16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FrankAustin              58 mins             █████████████░░░░░░░░░░░░   53.69 % 
+EasyOutput               30 mins             ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+FileCompressor           14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+FrankStaysDank.xyz       3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+FileConverter            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -90,7 +97,7 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/RasinBrand/RasinBrand/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2024 22:13:58 UTC
+ Last Updated on 13/04/2024 18:31:15 UTC
 <!--END_SECTION:waka-->
 
 <!---
