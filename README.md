@@ -31,6 +31,8 @@
 
 > 📦 15.2 kB Used in GitHub's Storage 
  > 
+> 🏆 15 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -64,16 +66,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       5 mins              ██████████████░░░░░░░░░░░   55.32 % 
+Other                    4 mins              ███████████░░░░░░░░░░░░░░   44.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ControllerHelper         10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +92,7 @@ Python                   3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/RasinBrand/RasinBrand/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2024 18:35:41 UTC
+ Last Updated on 11/06/2024 18:36:45 UTC
 <!--END_SECTION:waka-->
 
 <!---
