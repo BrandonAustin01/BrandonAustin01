@@ -23,6 +23,8 @@
 
 ### Waka Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2017%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -64,18 +66,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   3 mins              ██████████████████████░░░   86.51 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-CSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MovieRatingPy            4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +91,7 @@ Python                   4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/RasinBrand/RasinBrand/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2024 18:39:07 UTC
+ Last Updated on 25/07/2024 18:34:46 UTC
 <!--END_SECTION:waka-->
 
 <!---
