@@ -31,8 +31,6 @@
 
 > 📦 15.2 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -91,7 +89,7 @@ Python                   4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/RasinBrand/RasinBrand/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2024 18:36:56 UTC
+ Last Updated on 03/08/2024 18:35:38 UTC
 <!--END_SECTION:waka-->
 
 <!---
