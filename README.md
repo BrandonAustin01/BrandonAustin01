@@ -31,6 +31,8 @@
 
 > 📦 15.2 kB Used in GitHub's Storage 
  > 
+> 🏆 16 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -64,16 +66,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   10 mins             █████████████████░░░░░░░░   68.62 % 
+HTML                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+CSS                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+MovieRatingPy            9 mins              █████████████████░░░░░░░░   66.23 % 
+FrankStaysDank.xyz       4 mins              ████████░░░░░░░░░░░░░░░░░   31.38 % 
+Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +95,7 @@ Python                   4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/RasinBrand/RasinBrand/main/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2024 18:40:32 UTC
+ Last Updated on 20/12/2024 18:40:10 UTC
 <!--END_SECTION:waka-->
 
 <!---
