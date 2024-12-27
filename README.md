@@ -66,20 +66,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   10 mins             █████████████████░░░░░░░░   68.62 % 
-HTML                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-CSS                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MovieRatingPy            9 mins              █████████████████░░░░░░░░   66.23 % 
-FrankStaysDank.xyz       4 mins              ████████░░░░░░░░░░░░░░░░░   31.38 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -95,7 +91,7 @@ Python                   4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/RasinBrand/RasinBrand/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2024 18:39:43 UTC
+ Last Updated on 27/12/2024 18:39:29 UTC
 <!--END_SECTION:waka-->
 
 <!---
