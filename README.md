@@ -29,15 +29,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 15.2 kB Used in GitHub's Storage 
+> 📦 15.4 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2024
+> 🏆 17 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
  > 
-> 🔑 1 Private Repositories 
+> 🔑 2 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -81,7 +81,8 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             █████████████████████████   100.00 % 
+Python                   4 repos             ████████████████████░░░░░   80.00 % 
+C#                       1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 
@@ -91,7 +92,7 @@ Python                   4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/RasinBrand/RasinBrand/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2024 18:40:15 UTC
+ Last Updated on 31/12/2024 18:39:13 UTC
 <!--END_SECTION:waka-->
 
 <!---
