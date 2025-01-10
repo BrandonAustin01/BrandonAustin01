@@ -23,13 +23,13 @@
 
 ### Waka Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2042%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 15.4 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,19 +64,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████░░░░   82.59 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PrettyOutput             0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -93,7 +90,7 @@ C#                       1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RasinBrand/RasinBrand/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2025 18:41:53 UTC
+ Last Updated on 10/01/2025 18:40:51 UTC
 <!--END_SECTION:waka-->
 
 <!---
