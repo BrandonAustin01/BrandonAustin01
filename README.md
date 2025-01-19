@@ -23,28 +23,26 @@
 
 ### Waka Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 15.4 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
+> 📦 9.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 3 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-🌆 Daytime                8 commits           ████████████████████░░░░░   80.00 % 
-🌃 Evening                1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌞 Morning                2 commits           █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+🌆 Daytime                8 commits           ██████████████████░░░░░░░   72.73 % 
+🌃 Evening                1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -52,11 +50,11 @@
 ```text
 Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Wednesday                1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   9 commits           ██████████████████████░░░   90.00 % 
+Friday                   9 commits           ████████████████████░░░░░   81.82 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
@@ -66,22 +64,23 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+WebTests                 2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ████████████████████░░░░░   80.00 % 
+Python                   3 repos             ███████████████░░░░░░░░░░   60.00 % 
+HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 C#                       1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
@@ -89,10 +88,10 @@ C#                       1 repo              █████░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/RasinBrand/RasinBrand/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/BrandonAustin01/BrandonAustin01/main/assets/bar_graph.png)
 
 
- Last Updated on 11/01/2025 18:38:35 UTC
+ Last Updated on 19/01/2025 18:37:21 UTC
 <!--END_SECTION:waka-->
 
 <!---
