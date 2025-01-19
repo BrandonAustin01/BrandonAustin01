@@ -1,6 +1,6 @@
 # About Me 👋
-- 👋 Hi, I’m @RasinBrand aka **Brandon McKinney**
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m @BrandonAusitn01 aka **Brandon McKinney**
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning HTML, CSS
 - 📫 How to reach me brandonaustinmck01@icloud.com
 
