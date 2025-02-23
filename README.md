@@ -64,16 +64,18 @@ Sunday                   2 commits           ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     11 mins             █████████████████████░░░░   85.49 % 
+CSS                      1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+VeniceVapors             7 mins              ██████████████░░░░░░░░░░░   56.56 % 
+FrankStaysDank           5 mins              ███████████░░░░░░░░░░░░░░   43.44 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +93,7 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonAustin01/BrandonAustin01/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2025 18:38:26 UTC
+ Last Updated on 23/02/2025 18:38:04 UTC
 <!--END_SECTION:waka-->
 
 <!---
