@@ -31,8 +31,6 @@
 
 > 📦 9.2 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -66,18 +64,16 @@ Sunday                   2 commits           ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-HTML                     11 mins             █████████████████████░░░░   85.49 % 
-CSS                      1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-VeniceVapors             7 mins              ██████████████░░░░░░░░░░░   56.56 % 
-FrankStaysDank           5 mins              ███████████░░░░░░░░░░░░░░   43.44 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -95,7 +91,7 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonAustin01/BrandonAustin01/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2025 18:38:52 UTC
+ Last Updated on 02/03/2025 18:40:38 UTC
 <!--END_SECTION:waka-->
 
 <!---
