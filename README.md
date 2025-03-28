@@ -23,11 +23,15 @@
 
 ### Waka Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2057%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 9.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,7 +93,7 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonAustin01/BrandonAustin01/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2025 18:42:59 UTC
+ Last Updated on 28/03/2025 18:45:06 UTC
 <!--END_SECTION:waka-->
 
 <!---
