@@ -23,7 +23,7 @@
 
 ### Waka Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -31,11 +31,13 @@
 
 > 📦 9.3 kB Used in GitHub's Storage 
  > 
+> 🏆 10 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -85,9 +87,9 @@ Mac                      2 hrs 2 mins        ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ██████████████░░░░░░░░░░░   57.14 % 
-HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-C#                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   5 repos             ████████████████░░░░░░░░░   62.50 % 
+HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
@@ -97,7 +99,7 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonAustin01/BrandonAustin01/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2025 18:40:35 UTC
+ Last Updated on 14/04/2025 18:44:18 UTC
 <!--END_SECTION:waka-->
 
 <!---
