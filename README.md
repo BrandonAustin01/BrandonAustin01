@@ -1,13 +1,21 @@
-# About Me 👋
-- 👋 Hi, I’m @BrandonAusitn01 aka **Brandon McKinney**
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning HTML, CSS
-- 📫 How to reach me brandonaustinmck01@icloud.com
+<h1 align="center">Hey there 👋 I'm Brandon McKinney</h1>
+<p align="center">
+  <b>@BrandonAustin01</b> • Full Stack Explorer • Python Enthusiast 🐍
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🧑‍💻 I’m Brandon — tinkerer, debugger, and constant learner.
+- 🛠️ Working on: `Chroniq`, a CLI-first changelog/versioning tool.
+- 💌 Contact: brandonaustinmck01@icloud.com
+
+---
 
 ### Software / OS 🖥️
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -20,6 +28,20 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<!-- Top Langs + Stats (dynamic SVG) -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrandonAustin01&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Brandon's GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonAustin01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- GitHub streak stats -->
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonAustin01&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ### Waka Stats
 <!--START_SECTION:waka-->
