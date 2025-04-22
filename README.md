@@ -53,8 +53,6 @@
 
 > 📦 9.3 kB Used in GitHub's Storage 
  > 
-> 🏆 17 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -117,7 +115,7 @@ HTML                     2 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonAustin01/BrandonAustin01/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2025 18:44:01 UTC
+ Last Updated on 22/04/2025 18:44:20 UTC
 <!--END_SECTION:waka-->
 
 <!---
