@@ -51,7 +51,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 9.3 kB Used in GitHub's Storage 
+> 📦 9.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 17 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,7 +107,8 @@ Mac                      46 mins             ███████████�
 
 ```text
 Python                   5 repos             ██████████████████░░░░░░░   71.43 % 
-HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
@@ -115,7 +118,7 @@ HTML                     2 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonAustin01/BrandonAustin01/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2025 18:44:20 UTC
+ Last Updated on 23/04/2025 18:46:00 UTC
 <!--END_SECTION:waka-->
 
 <!---
