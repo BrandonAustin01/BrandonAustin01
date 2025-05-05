@@ -3,16 +3,6 @@
 
 ---
 
-## 🧠 About Me
-
-- 🧑‍💻 I’m Brandon — tinkerer, debugger, and constant learner.
-- 👾 Started in GSC modding for BO2 zombies — scripting chaos with style.
-- 🔧 Graduated into C# for real-time mod tools, then fell for Python’s elegance.
-- 🛠️ Building `Chroniq` — a CLI-first versioning + changelog tool for developers who prefer **local, clean, and smart** workflows.
-- 💌 Reach me: brandonaustinmck01@icloud.com
-
----
-
 ## 🛠️ Tools & Operating Systems
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
